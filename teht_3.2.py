@@ -1,5 +1,3 @@
-from http.cookiejar import uppercase_escaped_char
-
 lux = input("Anna hyttiluokka: ")
 upperlux = lux.upper()
 if lux == ("lux"):
