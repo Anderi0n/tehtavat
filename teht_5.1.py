@@ -1,5 +1,4 @@
 import random
-list = ["david", "eddie", "ander"]
 
 times = int(input("Dice rolls how many?: "))
 total = 0
